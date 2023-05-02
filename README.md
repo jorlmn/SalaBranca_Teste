@@ -1,9 +1,9 @@
 # SalaBranca_Unity - Jorel Lemes
 Protótipo para uma Sala Branca hospitalar, na qual o usuário consegue realizar a inspeção de equipamentos e interagir com eles. Em volta dos objetos, há pontos de interação onde o usuário pode clicar e aprender sobre aquela parte em específico.
 
-![image](https://user-images.githubusercontent.com/114875835/235801444-33c24c38-8cbc-40dd-828d-cce0dc94c1c0.png)
+![image](https://user-images.githubusercontent.com/114875835/235801822-b361bd4d-d35c-4aa9-84e7-e5d8abb89de1.png)
 
-![image](https://user-images.githubusercontent.com/114875835/235801598-d5cd2d9d-8ff0-49a5-a52c-da1990643881.png)
+![image](https://user-images.githubusercontent.com/114875835/235801773-ab9a1955-b5aa-4ec3-a93e-40af821f5fa6.png)
 
 ## Features:
 - Completamente localizado em Português, Inglês e Espanhol
